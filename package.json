@@ -1,0 +1,34 @@
+{
+  "name": "tradingview-commit-manager",
+  "version": "1.0.3",
+  "description": "A script that automates Commits on Github once every 4 hours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xclawkevin/TradingView-Commit-Manager.git"
+  },
+  "author": "xclawkevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xclawkevin/TradingView-Commit-Manager/issues"
+  },
+  "homepage": "https://github.com/xclawkevin/TradingView-Commit-Manager#readme",
+  "dependencies": {
+    "tradingview-scanner": "^1.0.1",
+    "tradingview-api-management": "^1.0.2",
+    "node-schedule": "^2.1.1"
+  },
+  "keywords": [
+    "tradingview",
+    "scanner",
+    "autocommit",
+    "github",
+    "manager",
+    "api",
+    "crypto",
+    "technical"
+  ]
+}
